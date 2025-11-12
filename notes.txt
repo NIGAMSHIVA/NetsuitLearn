@@ -30,4 +30,12 @@ Q8.How do roles and permissions work in NetSuite?
 A8.NetSuite uses a Role-Based Access Control (RBAC) system to manage security. Each user is assigned one or more roles, and each 
 role defines what data and actions that user can access in the system through permissions.
 
-₹
+Q9.What are scripts and workflows used for in NetSuite?
+A9.Scripts are piece of code to automate or customize something,workflow is just using some rules or drag and drop for the customization  &
+automation part.
+1.client Script-do the changes in forms and fields
+2.user event script-do the changes in bussiness logic once the form is submitted.
+3.map/reduce script-do the changes when number is big in thousands.
+4.scheduled script-at some time,reset in night
+4.Suitlet-Custom UI pages
+5.RESTlets-REST API endpoints connecting with some other
