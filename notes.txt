@@ -39,3 +39,19 @@ automation part.
 4.scheduled script-at some time,reset in night
 4.Suitlet-Custom UI pages
 5.RESTlets-REST API endpoints connecting with some other
+
+Q10.Explain the difference between sandbox and production accounts.
+A10.Sandbox-It is more likely where we can debug and check errors because it will not effect the real bussiness rather than having the 
+same data.It is the replica of the production account.It has different environment and different URL.
+
+Production account-All changes will reflect the real bussiness logic which will effect the real users also.
+
+Q11.What is a deployment in NetSuite?
+A11.Deployment in NetSuite means activating a script through a Script Deployment Record, defining when, where, and for whom the script 
+executes.
+
+Q12.What is SuiteScript? What are its versions (1.0 vs 2.x)?
+A12.SuiteScript is nothing but the javascript type code used for the customization and automation through the script it run inside the
+Netsuit Engine.1.0 and 2.0 and 2.1 are just their versions.Runs on both client and server side.2.1 allows arrow function.
+API fetch using the define.
+
