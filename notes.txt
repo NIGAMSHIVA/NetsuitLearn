@@ -9,3 +9,11 @@ SuiteBuilder, and SuiteTalk integration tools.
 Q3.Explain the architecture of NetSuite (client, server, database, UI layers).
 A3.“NetSuite uses a 4-tier cloud architecture — client (UI & scripts), server (business logic) user Event Script, Oracle database 
 (data layer),and integration layer (SuiteTalk & REST APIs) — all powered by Oracle’s SuiteCloud platform.”
+
+Q4.What is a record in NetSuite? What types of records exist?
+A4.A record in NetSuite is a data object representing business entities like customers or sales orders. It can be standard, custom, 
+transactional, or non-transactional depending on whether it’s built-in, user-defined, or tied to business transactions.record have unique
+id and can be modified using record.load() & record.save().
+
+Q5.Difference between Standard Records and Custom Records.
+A5.
