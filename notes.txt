@@ -5,3 +5,7 @@ A1.ERP is the idea; NetSuite is a cloud implementation of that idea — it doesn
 Q2.What are the main modules available in NetSuite?
 A2.NetSuite offers modules for Finance, CRM, Inventory, HR, Projects, and E-Commerce — all customizable through SuiteScript, 
 SuiteBuilder, and SuiteTalk integration tools.
+
+Q3.Explain the architecture of NetSuite (client, server, database, UI layers).
+A3.“NetSuite uses a 4-tier cloud architecture — client (UI & scripts), server (business logic) user Event Script, Oracle database 
+(data layer),and integration layer (SuiteTalk & REST APIs) — all powered by Oracle’s SuiteCloud platform.”
