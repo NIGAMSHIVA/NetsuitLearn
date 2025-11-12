@@ -25,3 +25,9 @@ A6.“Forms define the UI layout, fields store individual data values, and subli
 
 Q7.What is SuiteBuilder?
 A7.SuiteBuilder is no code tool which is used to customize forms,fields and sublists.
+
+Q8.How do roles and permissions work in NetSuite?
+A8.NetSuite uses a Role-Based Access Control (RBAC) system to manage security. Each user is assigned one or more roles, and each 
+role defines what data and actions that user can access in the system through permissions.
+
+₹
