@@ -1,0 +1,7 @@
+Q1. What is NetSuite and how is it different from other ERPs?
+A1.ERP is the idea; NetSuite is a cloud implementation of that idea — it doesn’t replace ERP, it is an ERP system 
+(but modern, integrated, and on the cloud).
+
+Q2.What are the main modules available in NetSuite?
+A2.The main modules that are avilable in Netsuite are Finances module,Analytics and customization(using suitescript,suitebuild and suitetalk)
+supply chain,inventory and CRM(Customer Relation Management)
