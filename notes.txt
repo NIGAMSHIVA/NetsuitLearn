@@ -20,3 +20,8 @@ A5.Standard records are built-in NetSuite records for core operations like Custo
 data structures designed to meet unique business requirements.Standard record can be acessed using record.load() and custom record is accessed
 using the custom_log
 
+Q6.What are forms, fields, and sublists in NetSuite?
+A6.“Forms define the UI layout, fields store individual data values, and sublists display related records or line items under a main record.”
+
+Q7.What is SuiteBuilder?
+A7.SuiteBuilder is no code tool which is used to customize forms,fields and sublists.
