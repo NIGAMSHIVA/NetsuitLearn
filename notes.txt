@@ -16,4 +16,7 @@ transactional, or non-transactional depending on whether it’s built-in, user-d
 id and can be modified using record.load() & record.save().
 
 Q5.Difference between Standard Records and Custom Records.
-A5.
+A5.Standard records are built-in NetSuite records for core operations like Customer or Invoice, whereas custom records are user-created 
+data structures designed to meet unique business requirements.Standard record can be acessed using record.load() and custom record is accessed
+using the custom_log
+
